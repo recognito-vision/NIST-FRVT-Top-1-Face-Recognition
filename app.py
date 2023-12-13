@@ -132,10 +132,10 @@ def compare_face(frame1, frame2):
 with gr.Blocks() as demo:
     gr.Markdown(
         """
-    # Recognito Face Analysis
+    # **Recognito Face Analysis**
     ## NIST FRVT Top #1 Face Recognition Algorithm Developer<br/>
     ## Contact us at https://recognito.vision
-    ![NIST FRVT 1:1 Leaderboard](https://recognito.vision/wp-content/uploads/2023/12/black-1.png =x480)
+    <img src="https://recognito.vision/wp-content/uploads/2023/12/black-1.png" alt="NIST FRVT 1:1 Leaderboard" width="50%">
     """
     )
     with gr.Row():
