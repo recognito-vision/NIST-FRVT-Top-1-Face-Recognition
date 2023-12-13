@@ -133,9 +133,9 @@ with gr.Blocks() as demo:
     gr.Markdown(
         """
     # Recognito Face Analysis
-    NIST FRVT Top #1 Face Recognition Algorithm Developer<br/>
-    ![NIST FRVT 1:1 Leaderboard](https://recognito.vision/wp-content/uploads/2023/12/black-1.png)
-    Contact us at https://recognito.vision<br/>
+    ## NIST FRVT Top #1 Face Recognition Algorithm Developer<br/>
+    ## Contact us at https://recognito.vision
+    ![NIST FRVT 1:1 Leaderboard](https://recognito.vision/wp-content/uploads/2023/12/black-1.png =x480)
     """
     )
     with gr.Row():
