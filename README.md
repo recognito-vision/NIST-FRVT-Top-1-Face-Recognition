@@ -38,7 +38,7 @@
 
 <p align="center" style="font-size: 24px; font-weight: bold;">
     <a href="https://pages.nist.gov/frvt/html/frvt11.html" target="_blank">
-        NIST FRVT Top #1 Face Recognition Algorithm Developer
+        Latest NIST FRVT Report
     </a>  
 </p>
 
