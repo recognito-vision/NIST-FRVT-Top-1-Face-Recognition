@@ -25,9 +25,7 @@
 ### <img src="https://github.com/Recognito-Vision/NIST-FRVT-Top-1-Face-Recognition/assets/153883841/cdce594f-f3e3-4015-8b8e-72aa3b6c5ea9" alt="home" width="25">   Visit https://recognito.vision
 
 <p align="center">
-    <a href="https://pages.nist.gov/frvt/html/frvt11.html" target="_blank">
-        <img alt="" src="https://recognito.vision/wp-content/uploads/2024/03/NIST.png" width=80%/>
-    </a>  
+    <img alt="" src="https://recognito.vision/wp-content/uploads/2024/03/NIST.png" width=90%/>
 </p>
 
 <p align="center" style="font-size: 24px; font-weight: bold;">
