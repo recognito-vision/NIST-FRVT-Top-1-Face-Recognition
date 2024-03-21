@@ -3,20 +3,30 @@
 </a>
 
 # **Face Recognition, Liveness Detection, Attribute Analysis SDK Online Demo**
-Try out the Web Demo: 
-<div style="display: flex; align-items: center;">
-  <a href="https://recognito.vision/index.php/playground/" style="display:inline-block">
-      <img src="https://img.shields.io/badge/Recognito-Playground-blue" alt="Static Badge" style="width: 150px;">
-  </a>
-  <a href="https://huggingface.co/spaces/Recognito/FaceRecognition-LivenessDetection-FaceAnalysis" style="display:inline-block">
-      <img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue" alt="Hugging Face Spaces" style="width: 150px;">
-  </a>
-</div>
 
+### <img src="https://github.com/Recognito-Vision/Face-SDK-Linux-Demos/assets/153883841/c71602a2-cdca-4214-9bef-2997765b74a2" alt="chrome" width="25">   Try out the Web Demo
+
+<a href="https://recognito.vision/index.php/playground/">
+    <img src="https://img.shields.io/badge/Recognito-Playground-blue" alt="Recognito Playground" style="height: 30px;">
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://huggingface.co/spaces/Recognito/FaceRecognition-LivenessDetection-FaceAnalysis">
+    <img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue" alt="Hugging Face Spaces" style="height: 30px;">
+</a><br/><br/>
+<!--
+<p align="center">
+    <img alt="" src="https://github.com/Recognito-Vision/NIST-FRVT-Top-1-Face-Recognition/assets/153883841/18c3e068-7081-410e-9c77-add86394ee80" width=80%/>
+</p>
+
+<p align="center">
+    <img alt="" src="https://github.com/Recognito-Vision/NIST-FRVT-Top-1-Face-Recognition/assets/153883841/3f56f817-d730-472d-b8ae-5cf9f293bdd1" width=80%/>
+</p>
+-->
+
+### <img src="https://github.com/Recognito-Vision/NIST-FRVT-Top-1-Face-Recognition/assets/153883841/cdce594f-f3e3-4015-8b8e-72aa3b6c5ea9" alt="home" width="25">   Visit https://recognito.vision
 
 <p align="center">
     <a href="https://pages.nist.gov/frvt/html/frvt11.html" target="_blank">
-        <img alt="" src="https://recognito.vision/wp-content/uploads/2024/03/NIST.png" width=100%/>
+        <img alt="" src="https://recognito.vision/wp-content/uploads/2024/03/NIST.png" width=80%/>
     </a>  
 </p>
 
@@ -26,10 +36,8 @@ Try out the Web Demo:
     </a>  
 </p>
 
-## Contact us at https://recognito.vision
 
-
-## <img src="https://github.com/Recognito-Vision/Face-SDK-Linux-Demos/assets/153883841/78c5efee-15f3-4406-ab4d-13fd1182d20c" alt="contact" width="25">  Contact Us
+### <img src="https://github.com/Recognito-Vision/Face-SDK-Linux-Demos/assets/153883841/78c5efee-15f3-4406-ab4d-13fd1182d20c" alt="contact" width="25">   Contact Us
 Contact us for our on-premise Face Recognition, Liveness Detection SDKs deployment
 
 <div style="display: flex; align-items: center;">
