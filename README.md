@@ -11,7 +11,7 @@
 </a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://huggingface.co/spaces/Recognito/FaceRecognition-LivenessDetection-FaceAnalysis">
     <img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue" alt="Hugging Face Spaces" style="height: 30px;">
-</a><br/><br/>
+</a>
 <!--
 <p align="center">
     <img alt="" src="https://github.com/Recognito-Vision/NIST-FRVT-Top-1-Face-Recognition/assets/153883841/18c3e068-7081-410e-9c77-add86394ee80" width=80%/>
@@ -22,7 +22,15 @@
 </p>
 -->
 
-### <img src="https://github.com/Recognito-Vision/NIST-FRVT-Top-1-Face-Recognition/assets/153883841/cdce594f-f3e3-4015-8b8e-72aa3b6c5ea9" alt="home" width="25">   Visit https://recognito.vision
+### <img src="https://github.com/Recognito-Vision/NIST-FRVT-Top-1-Face-Recognition/assets/153883841/cdce594f-f3e3-4015-8b8e-72aa3b6c5ea9" alt="home" width="25">   Visit [Recognito](https://recognito.vision)
+<div style="display: flex; align-items: center;">
+    &emsp;&emsp;<a href="https://recognito.vision" style="display: flex; align-items: center;"><img src="https://recognito.vision/wp-content/uploads/2024/03/recognito_64_cl.png" style="width: 32px; margin-right: 5px;"/></a>
+    &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/company/recognito-vision" style="display: flex; align-items: center;"><img src="https://recognito.vision/wp-content/uploads/2024/03/linkedin_64_cl.png" style="width: 32px; margin-right: 5px;"/></a>
+    &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://huggingface.co/Recognito" style="display: flex; align-items: center;"><img src="https://recognito.vision/wp-content/uploads/2024/03/hf_64_cl.png" style="width: 32px; margin-right: 5px;"/></a>
+    &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/Recognito-Vision" style="display: flex; align-items: center;"><img src="https://recognito.vision/wp-content/uploads/2024/03/github_64_cl.png" style="width: 32px; margin-right: 5px;"/></a>
+    &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://hub.docker.com/u/recognito" style="display: flex; align-items: center;"><img src="https://recognito.vision/wp-content/uploads/2024/03/docker_64_cl.png" style="width: 32px; margin-right: 5px;"/></a>
+</div><br/>
+
 
 <p align="center">
     <img alt="" src="https://recognito.vision/wp-content/uploads/2024/03/NIST.png" width=90%/>
@@ -45,12 +53,3 @@ Contact us for our on-premise Face Recognition, Liveness Detection SDKs deployme
     &nbsp;&nbsp;&nbsp;&nbsp;<a target="_blank" href="https://join.slack.com/t/recognito-workspace/shared_invite/zt-2d4kscqgn-"><img src="https://img.shields.io/badge/slack-recognito-blue.svg?logo=slack " alt="www.recognito.vision"></a>
 </div>
 <br/>
-<p align="center">
-    &emsp;&emsp;<a href="https://recognito.vision" style="display: flex; align-items: center;"><img src="https://recognito.vision/wp-content/uploads/2024/03/recognito_64.png" style="width: 24px; margin-right: 5px;"/></a>
-    &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/company/recognito-vision" style="display: flex; align-items: center;"><img src="https://recognito.vision/wp-content/uploads/2024/03/linkedin64.png" style="width: 24px; margin-right: 5px;"/></a>
-    &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://huggingface.co/Recognito" style="display: flex; align-items: center;"><img src="https://recognito.vision/wp-content/uploads/2024/03/hf1_64.png" style="width: 24px; margin-right: 5px;"/></a>
-    &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/Recognito-Vision" style="display: flex; align-items: center;"><img src="https://recognito.vision/wp-content/uploads/2024/03/github64.png" style="width: 24px; margin-right: 5px;"/></a>
-    &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://hub.docker.com/u/recognito" style="display: flex; align-items: center;"><img src="https://recognito.vision/wp-content/uploads/2024/03/docker64.png" style="width: 24px; margin-right: 5px;"/></a>
-</p>
-
-
