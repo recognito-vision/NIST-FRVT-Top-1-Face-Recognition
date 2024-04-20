@@ -11,7 +11,12 @@
 </a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://huggingface.co/spaces/Recognito/FaceRecognition-LivenessDetection-FaceAnalysis">
     <img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue" alt="Hugging Face Spaces" style="height: 30px;">
-</a>
+</a><br/><br/>
+
+
+<p align="center"><img src="https://github.com/Recognito-Vision/Linux-FaceRecognition-FaceLivenessDetection/assets/153883841/37428b06-fe7c-4537-9875-d9701a5975e8" alt="face recognition" width="80%"></p>
+
+<p align="center"><img src="https://github.com/Recognito-Vision/Linux-FaceRecognition-FaceLivenessDetection/assets/153883841/468618e5-958e-4e00-b849-eac208c9f20b" alt="face liveness detection" width="80%"></p>
 
 
 ## <img src="https://github.com/Recognito-Vision/Linux-FaceRecognition-FaceLivenessDetection/assets/153883841/2a625f6c-c8f1-49f6-87d3-f5f1477111cf" alt="docker" width="25">  Docker
