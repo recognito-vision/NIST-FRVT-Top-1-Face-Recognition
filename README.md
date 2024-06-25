@@ -6,7 +6,7 @@
 
 ### <img src="https://github.com/recognito-vision/Linux-FaceRecognition-FaceLivenessDetection/assets/153883841/c71602a2-cdca-4214-9bef-2997765b74a2" alt="chrome" width="25">   Try out the Web Demo
 
-<a href="https://recognito.vision/index.php/playground/">
+<a href="https://recognito.vision/index.php/playground/?__theme=dark">
     <img src="https://img.shields.io/badge/Recognito-Playground-blue" alt="Recognito Playground" style="height: 30px;">
 </a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://huggingface.co/spaces/Recognito/FaceRecognition-LivenessDetection-FaceAnalysis">
