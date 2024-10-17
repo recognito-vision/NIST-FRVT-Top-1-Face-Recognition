@@ -4,6 +4,11 @@
 
 # **Face Recognition, Liveness Detection, Attribute Analysis SDK Online Demo**
 
+#### <img src="https://github.com/user-attachments/assets/02738ad1-c779-462e-8abd-4e5caefb2cf6" alt="home" width="25">   _Great News: Try Recognito’s API on your app or website for Free_
+- Subscribe on the plan you wish in our [**API Hub**](https://rapidapi.com/organization/recognito).
+- Clone our [**Hugging Face space**](https://huggingface.co/recognito) for your IDV project setup.
+<br/>
+
 ### <img src="https://github.com/recognito-vision/Linux-FaceRecognition-FaceLivenessDetection/assets/153883841/c71602a2-cdca-4214-9bef-2997765b74a2" alt="chrome" width="25">   Try out the Web Demo
 
 <a href="https://recognito.vision/face-biometric-playground/">
